@@ -29,7 +29,7 @@ This template provides a standardized directory structure and configuration setu
 │   ├── __init__.py
 │   ├── api/                 # API endpoints and services
 │   ├── configs/             # Configuration classes and schemas
-│   ├── core/                # Core business logic
+│   ├── core/                # Core models and algorithms
 │   ├── data/                # Data processing and loading modules
 │   ├── ui/                  # User interface components
 │   └── utils/               # Utility functions and helpers
